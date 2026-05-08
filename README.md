@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imhamzah
 - 📱 iOS Developer
 - 😃 Augmented Reality Developer
-- 📕 Swift/SwiftUI
+- 📕 Swift/SwiftUI/React Native
 - 📍 Islamabad, Pakistan
 
 <!---
